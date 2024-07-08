@@ -1,0 +1,10 @@
+.block {
+    width: 250px;
+    height: 250px;
+    background-color: fuchsia;
+    margin: auto;
+
+}
+h1 {
+    text-align: center;
+}

@@ -1,0 +1,15 @@
+{
+  "name": "1002-node-calculator",
+  "version": "1.0.0",
+  "description": "You are going to create a calculator in pure JavaScript using `NodeJS` and `readline-sync`.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

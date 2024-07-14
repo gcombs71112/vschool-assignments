@@ -1,0 +1,15 @@
+#heading{
+    text-align:center;
+}
+
+#paragraph{
+    text-align: center;
+}
+
+#changeButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    margin-top: 3px;
+}
